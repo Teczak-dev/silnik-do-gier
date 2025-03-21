@@ -1,0 +1,6 @@
+/Users/ms/Desktop/Programowanie/C++/silnik-do-gier/build/CMakeFiles/Teczak_Engine.dir
+/Users/ms/Desktop/Programowanie/C++/silnik-do-gier/build/CMakeFiles/edit_cache.dir
+/Users/ms/Desktop/Programowanie/C++/silnik-do-gier/build/CMakeFiles/rebuild_cache.dir
+/Users/ms/Desktop/Programowanie/C++/silnik-do-gier/build/lib/CMakeFiles/mylib.dir
+/Users/ms/Desktop/Programowanie/C++/silnik-do-gier/build/lib/CMakeFiles/edit_cache.dir
+/Users/ms/Desktop/Programowanie/C++/silnik-do-gier/build/lib/CMakeFiles/rebuild_cache.dir

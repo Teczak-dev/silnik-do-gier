@@ -6,6 +6,10 @@
 			[
 				{
 					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
 					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
 					"minimumCMakeVersion" : 
 					{
@@ -17,6 +21,21 @@
 					[
 						0
 					]
+				},
+				{
+					"build" : "lib",
+					"jsonFile" : "directory-lib-Debug-c12f15c6f888b43a891c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "lib",
+					"targetIndexes" : 
+					[
+						1
+					]
 				}
 			],
 			"name" : "Debug",
@@ -25,12 +44,14 @@
 				{
 					"directoryIndexes" : 
 					[
-						0
+						0,
+						1
 					],
-					"name" : "silnik_do_gier",
+					"name" : "Teczak_Engine",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
@@ -38,9 +59,16 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "silnik_do_gier::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-silnik_do_gier-Debug-99b0d815a05731e836e2.json",
-					"name" : "silnik_do_gier",
+					"id" : "Teczak_Engine::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Teczak_Engine-Debug-b1f6bb978e34b18ff933.json",
+					"name" : "Teczak_Engine",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "mylib::@306ed2d68c6501e8728f",
+					"jsonFile" : "target-mylib-Debug-82e10f36955be8ba4a3a.json",
+					"name" : "mylib",
 					"projectIndex" : 0
 				}
 			]
